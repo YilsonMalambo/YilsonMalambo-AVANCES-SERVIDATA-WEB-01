@@ -1,1 +1,0 @@
-import"./chunk-7CGTOI24.js";var o=[{path:"",redirectTo:"index",pathMatch:"full"},{path:"index",loadComponent:()=>import("./chunk-IWSTNJFT.js").then(t=>t.WelcomeComponent),data:{title:"Inicio"}}];export{o as routes};
