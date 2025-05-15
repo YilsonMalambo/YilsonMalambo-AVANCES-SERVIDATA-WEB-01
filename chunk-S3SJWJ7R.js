@@ -1,0 +1,1 @@
+import"./chunk-GAL4ENT6.js";var o=[{path:"",redirectTo:"",pathMatch:"full"},{path:"",loadComponent:()=>import("./chunk-YELHXWDC.js").then(t=>t.IndexComponent),data:{title:"Portafolio"}},{path:"contacto",loadComponent:()=>import("./chunk-O4MWEAML.js").then(t=>t.ContactComponent),data:{title:"Contacto"}}];export{o as routes};
