@@ -1,0 +1,1 @@
+import"./chunk-7CGTOI24.js";var t=[{path:"",redirectTo:"index",pathMatch:"full"},{path:"index",loadComponent:()=>import("./chunk-SUIJCDJL.js").then(o=>o.WelcomeComponent),data:{title:"Inicio"}},{path:"index/politicas-privacidad",loadComponent:()=>import("./chunk-QWBA2HQ5.js").then(o=>o.PrivacyPoliciesComponent)}];export{t as routes};
